@@ -45,3 +45,12 @@
 .card > .remove:hover {
   color: #d50000;
 }
+
+.img-thumbnail:hover {
+  background-color: red;
+  opacity: 0.5;
+  }
+
+.img-container:hover{
+  transform: scale(1.1);
+}
