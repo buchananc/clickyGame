@@ -57,3 +57,21 @@ font-family: 'Lato', sans-serif; */
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+@media only screen and (max-width: 800px) {
+  .App-header {
+  height: 190px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .App-header {
+    height: 240px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .App-header {
+    height: 275px;
+  }
+}
