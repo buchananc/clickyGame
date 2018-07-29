@@ -15,11 +15,15 @@ Once your score resets after an incorrect guess, the game should restart.
 ![enter image description here](https://lh3.googleusercontent.com/nqi2FiE1VEoqFHRqBV8sSbqlkvkey8KW3XGbaMHQJumkc9RxOE0Pse3Os6zC4T5eBpRJ5dvbaJ3KBw "pic3")
 <br/>
 ## Dependencies
-**array-equal: ^1.0.0
-dotenv: ^6.0.0
-react: ^16.4.1
-react-dom: ^16.4.1
-react-scripts: 1.1.4**
+**array-equal: ^1.0.0**
+
+**dotenv: ^6.0.0**
+
+**react: ^16.4.1**
+
+**react-dom: ^16.4.1**
+
+**react-scripts: 1.1.4**
 
 ## Let's Play
 Link coming soon!
