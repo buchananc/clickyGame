@@ -10,12 +10,12 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
+    "homepage": "https://buchananc.github.io/my-app",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "homepage": "https://buchananc.github.io/my-app",
     "eject": "react-scripts eject"
   },
   "description": "Clicky Game is a memory game created with React. UI is broken up into components, component states are managed and respond to user events.",
