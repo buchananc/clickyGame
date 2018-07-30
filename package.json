@@ -10,9 +10,9 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "homepage": "https://buchananc.github.io/my-app",
+    "homepage": "https://buchananc.github.io/clickyGame",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
