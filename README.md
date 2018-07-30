@@ -26,4 +26,4 @@ Once your score resets after an incorrect guess, the game should restart.
 **react-scripts: 1.1.4**
 
 ## Let's Play
-Link coming soon!
+Deployed to Heroku. [Click here](https://clickygame90s.herokuapp.com/)!
